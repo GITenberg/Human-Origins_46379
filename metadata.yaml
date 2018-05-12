@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38056'
     url: http://www.gutenberg.org/2009/agents/38056
 description: Pt. I. Evidence from history.--pt. II. Evidence from science.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46379#Human-Origins
 gutenberg_issued: '2014-07-23'
 gutenberg_type: Text
 identifiers:
